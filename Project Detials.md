@@ -185,4 +185,4 @@ Complaint (1) ------ (1) Resolution
 
 ## Expected Outcome
 
-The system will help citizens report civic issues efficiently while enabling authorities to resolve them faster through AI-driven prioritization, automated classification, and real-time tracking.
+The system will help citizens report civic issues efficiently while enabling authorities to resolve them faster through AI-driven prioritization, automated classification and real-time tracking.
